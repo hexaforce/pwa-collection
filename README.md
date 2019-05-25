@@ -13,7 +13,7 @@ Angular CLI: 7.3.9
 hexaforce:~ relics9$ ionic --version
 4.12.0
 hexaforce:~ relics9$ quasar --version
-0.17.24
+1.0.0-rc.1
 hexaforce:~ relics9$ create-react-app --version
 3.0.1
 hexaforce:~ relics9$ vue --version
@@ -44,7 +44,7 @@ npm start -- --hostname 0.0.0.0 --port 8080
 ## Quasar Framework
 ```
 cd pwa-quasar
-npm install
+yarn install
 quasar dev
 ```
 

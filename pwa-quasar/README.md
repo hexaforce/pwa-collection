@@ -1,6 +1,3 @@
 # Quasar App
 
-> RUN
-```
-quasar dev
-```
+> WIP
