@@ -21,13 +21,16 @@ hexaforce:~ relics9$ vue --version
 ```
 
 ## Angular
+[Service Workers & PWA](https://angular.io/guide/service-worker-getting-started)
 ```
 cd pwa-angular
 yarn install
 ng serve --port 8080
 ```
 
-## Ionic Framework
+## Ionic Framework(Angular)
+[Ionic Framework](https://ionicframework.com/docs)  
+※Community Edition (MIT license)
 ```
 cd pwa-ionic
 npm install
@@ -35,13 +38,16 @@ ionic serve --port 8080
 ```
 
 ## Polymer
+
+[Tools for Web Developers](https://developers.google.com/web/tools/polymer-starter-kit)
 ```
 cd pwa-polymer
 npm install
 npm start -- --hostname 0.0.0.0 --port 8080
 ```
 
-## Quasar Framework
+## Quasar Framework(Vue.js)
+[Quasar](https://quasar.dev/start/pick-quasar-flavour)
 ```
 cd pwa-quasar
 yarn install
@@ -55,6 +61,7 @@ cd pwa-react
 ```
 
 ## Vue.js
+[@vue/cli-plugin-pwa](https://www.npmjs.com/package/@vue/cli-plugin-pwa)
 ```
 cd pwa-vue
 yarn install
